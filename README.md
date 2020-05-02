@@ -1,5 +1,5 @@
 <p align="center">
-[<img src="https://miro.medium.com/max/450/1*9V4r2JpA02Jzu0Tro-i6hg.png">](http://google.com.au/)
+<img src="https://miro.medium.com/max/450/1*9V4r2JpA02Jzu0Tro-i6hg.png">
 <p>
 
 # TailWindCSS-on-Laravel
