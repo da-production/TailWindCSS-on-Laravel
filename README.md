@@ -1,3 +1,5 @@
+[<img src="https://miro.medium.com/max/450/1*9V4r2JpA02Jzu0Tro-i6hg.png">](http://google.com.au/)
+
 # TailWindCSS-on-Laravel
 In this short tutorial, I will go over on how you can install TailWindCSS on Laravel project.
 Although you can install tailwind on any of your Laravel Project (old or new). For the demonstration purpose.
