@@ -1,4 +1,6 @@
-[<img src="https://miro.medium.com/max/450/1*9V4r2JpA02Jzu0Tro-i6hg.png" style='width:100px;maring:0px auto;'>](http://google.com.au/)
+<p align="center">
+[<img src="https://miro.medium.com/max/450/1*9V4r2JpA02Jzu0Tro-i6hg.png">](http://google.com.au/)
+<p>
 
 # TailWindCSS-on-Laravel
 In this short tutorial, I will go over on how you can install TailWindCSS on Laravel project.
